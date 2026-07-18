@@ -1,4 +1,4 @@
-# Library_Management_DB
+# Library-Management-DB
 
 # 📚 Library Management System Database
 
